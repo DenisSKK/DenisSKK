@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DenisSKK
 - 👀 I’m interested in programming (duh..), playing guitar, video games..
-- 🌱 I’m currently learning NFTs, C, Java, Python
-- 💞️ I’m looking to collaborate on NFTs
+- 🌱 I’m currently learning C, Java, Python
 - 📫 How to reach me hnidenkodenis@gmail.com
 
 <!---
